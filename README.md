@@ -31,7 +31,6 @@ StudentManagementSystem
 |       |-- Student.java
 |       |-- StudentService.java
 |
-|-- README.md
 
 ## Java Concepts Used
 - Variables and Data Types
