@@ -12,7 +12,6 @@ It helps manage student records through simple operations.
 - Delete student records
 - Calculate average marks and grades
 - Validate user input
-- 
 ## Technologies Used
 - Java 11
 - OOP Concepts
